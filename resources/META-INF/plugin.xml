@@ -1,0 +1,17 @@
+<idea-plugin>
+  <id>com.github.igrmk</id>
+  <name>Helsing</name>
+  <version>1.0</version>
+  <vendor email="igor.mikushkin@gmail.com" url="http://github.com/igrmk">igrmk</vendor>
+
+  <description>Dark color theme for working under the sunlight</description>
+
+  <idea-version since-build="173.0"/>
+
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="723d5afc-7378-4a6b-adc4-687dc34bc43b" path="/Helsing.theme.json"/>
+  </extensions>
+</idea-plugin>

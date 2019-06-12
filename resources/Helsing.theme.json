@@ -1,0 +1,13 @@
+{
+  "name": "Helsing",
+  "dark": true,
+  "author": "igrmk",
+  "editorScheme": "/Helsing.xml",
+  "ui": {
+    "*": {
+      "foreground": "#ffffff",
+      "selectionForeground": "#ffffff",
+      "infoForeground": "#d3d3d3"
+    }
+  }
+}
