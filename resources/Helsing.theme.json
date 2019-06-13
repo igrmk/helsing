@@ -7,7 +7,9 @@
     "*": {
       "foreground": "#ffffff",
       "selectionForeground": "#ffffff",
-      "infoForeground": "#d3d3d3"
+      "infoForeground": "#b5b5b5",
+      "disabledForeground": "#b5b5b5",
+      "inactiveForeground": "#b5b5b5"
     }
   }
 }
