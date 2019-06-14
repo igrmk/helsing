@@ -1,12 +1,12 @@
 <idea-plugin>
   <id>com.github.igrmk</id>
   <name>Helsing</name>
-  <version>1.2</version>
+  <version>1.3</version>
   <vendor email="igor.mikushkin@gmail.com" url="http://github.com/igrmk">igrmk</vendor>
 
   <description>Dark color theme for working under the sunlight</description>
 
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
 
   <depends>com.intellij.modules.platform</depends>
   <depends>com.intellij.modules.lang</depends>
