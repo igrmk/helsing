@@ -12,10 +12,10 @@
     <option name="FILESTATUS_DELETED" value="c0c0c0" />
     <option name="FILESTATUS_HIJACKED" value="ffffff" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="c0c0c0" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="e9d281" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ffa39c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ffa39c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ffa39c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="f4ba8e" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f4ba8e" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f4ba8e" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f4ba8e" />
     <option name="FILESTATUS_MERGED" value="c0c0c0" />
     <option name="FILESTATUS_MODIFIED" value="7aceee" />
     <option name="FILESTATUS_NOT_CHANGED" value="ffffff" />
@@ -25,9 +25,9 @@
     <option name="FILESTATUS_RENAMED" value="7aceee" />
     <option name="FILESTATUS_SUPPRESSED" value="ffffff" />
     <option name="FILESTATUS_SWITCHED" value="ffffff" />
-    <option name="FILESTATUS_UNKNOWN" value="ffa39c" />
+    <option name="FILESTATUS_UNKNOWN" value="f4ba8e" />
     <option name="FILESTATUS_addedOutside" value="98e58c" />
-    <option name="FILESTATUS_changelistConflict" value="ffa39c" />
+    <option name="FILESTATUS_changelistConflict" value="f4ba8e" />
     <option name="FILESTATUS_modifiedOutside" value="7aceee" />
     <option name="GUTTER_BACKGROUND" value="404346" />
     <option name="LINE_NUMBERS_COLOR" value="c0c0c0" />
@@ -82,7 +82,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="e9d281" />
+        <option name="FOREGROUND" value="f4ba8e" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -96,11 +96,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -108,7 +104,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ffa39c" />
+        <option name="FOREGROUND" value="f4ba8e" />
         <option name="EFFECT_COLOR" value="ff7777" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -162,13 +158,13 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="dcffbf" />
+        <option name="FOREGROUND" value="c3ffbd" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="BACKGROUND" value="6b6e6e" />
+        <option name="BACKGROUND" value="747676" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -187,7 +183,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c0c0c0" />
-        <option name="BACKGROUND" value="3a3a3a" />
+        <option name="BACKGROUND" value="3b3c3e" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -197,20 +193,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GO_EXPORTED_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_FUNCTION_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="GO_LOCAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="GO_METHOD_RECEIVER">
@@ -229,7 +216,6 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
@@ -247,7 +233,7 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="c0c0c0" />
-        <option name="BACKGROUND" value="6f6f6f" />
+        <option name="BACKGROUND" value="747676" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
@@ -259,7 +245,7 @@
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="828585" />
+        <option name="BACKGROUND" value="747676" />
       </value>
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
@@ -330,20 +316,20 @@
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
       <value>
         <option name="FOREGROUND" value="98e58c" />
-        <option name="BACKGROUND" value="828585" />
+        <option name="BACKGROUND" value="747676" />
       </value>
     </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SQL_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="dcffbf" />
+        <option name="FOREGROUND" value="c3ffbd" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_PROCEDURE">
       <value>
-        <option name="FOREGROUND" value="dcffbf" />
+        <option name="FOREGROUND" value="c3ffbd" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -359,19 +345,19 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="3c3f42" />
+        <option name="BACKGROUND" value="3b3c3e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffa39c" />
+        <option name="FOREGROUND" value="f4ba8e" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffa39c" />
+        <option name="EFFECT_COLOR" value="f4ba8e" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -380,7 +366,8 @@
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_DATA">
       <value>
-        <option name="FOREGROUND" value="dcffbf" />
+        <option name="FOREGROUND" value="c3ffbd" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
