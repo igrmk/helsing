@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.igrmk</id>
     <name>Helsing</name>
-    <version>2.2</version>
+    <version>2.3</version>
     <vendor email="igor.mikushkin@gmail.com" url="http://github.com/igrmk">igrmk</vendor>
 
     <description>Dark color theme for working under the sunlight</description>
