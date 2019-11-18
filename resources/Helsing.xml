@@ -294,7 +294,7 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="c0c0c0" />
-        <option name="BACKGROUND" value="747676" />
+        <option name="BACKGROUND" value="616363" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
@@ -306,7 +306,7 @@
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="747676" />
+        <option name="BACKGROUND" value="616363" />
       </value>
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
@@ -447,7 +447,7 @@
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
       <value>
         <option name="FOREGROUND" value="98e58c" />
-        <option name="BACKGROUND" value="747676" />
+        <option name="BACKGROUND" value="616363" />
       </value>
     </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
