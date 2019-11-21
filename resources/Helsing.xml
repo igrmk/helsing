@@ -322,6 +322,7 @@
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value />
     </option>
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value />
     </option>
