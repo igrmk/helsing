@@ -238,18 +238,26 @@
     <option name="GO_BUILTIN_CONSTANT">
       <value>
         <option name="FOREGROUND" value="b9ffb4" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="GO_BUILTIN_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="GO_BUILTIN_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE" />
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value />
+    </option>
     <option name="GO_BUILTIN_VARIABLE">
       <value>
         <option name="FOREGROUND" value="b9ffb4" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="GO_EXPORTED_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="GO_EXPORTED_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="GO_EXPORTED_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="GO_FUNCTION_PARAMETER">
       <value>
