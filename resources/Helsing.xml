@@ -58,6 +58,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b9ffb4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CfmlAttribute name">
       <value />
     </option>
@@ -77,9 +83,7 @@
     </option>
     <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_COMMA">
-      <value>
-        <option name="FOREGROUND" value="b9ffb4" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_DOC_COMMENT">
@@ -121,7 +125,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="7aceee" />
         <option name="EFFECT_COLOR" value="ffa2a2" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -167,9 +171,7 @@
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
-      <value>
-        <option name="FOREGROUND" value="b9ffb4" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
@@ -191,7 +193,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="7aceee" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -513,21 +515,28 @@
       </value>
     </option>
     <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
-      <value>
-        <option name="FOREGROUND" value="ffc81a" />
-      </value>
+      <value />
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
       <value>
-        <option name="FOREGROUND" value="98e58c" />
+        <option name="FOREGROUND" value="7aceee" />
       </value>
+    </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM_2">
+      <value>
+        <option name="FOREGROUND" value="7aceee" />
+      </value>
+    </option>
+    <option name="ReSharper.IL_INSTRUCTION">
+      <value />
     </option>
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
       <value>
-        <option name="FOREGROUND" value="98e58c" />
+        <option name="FOREGROUND" value="7aceee" />
         <option name="BACKGROUND" value="616363" />
       </value>
     </option>
+    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value />
@@ -598,6 +607,11 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="EFFECT_COLOR" value="ffa2a2" />
         <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="Valid string escape">
+      <value>
+        <option name="FOREGROUND" value="7aceee" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
