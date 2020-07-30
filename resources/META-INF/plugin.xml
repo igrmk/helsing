@@ -1,11 +1,11 @@
 <idea-plugin>
     <id>com.github.igrmk</id>
     <name>Helsing</name>
-    <version>2.9</version>
+    <version>3.0</version>
     <vendor email="igrmkx@gmail.com" url="http://github.com/igrmk">igrmk</vendor>
 
     <description>Dark color theme for working under the sunlight</description>
-    <change-notes>Color updates for JavaScript, Razor Pages and regular expressions</change-notes>
+    <change-notes>Color updates for JavaScript, C++, Razor Pages and regular expressions</change-notes>
 
     <idea-version since-build="191.0"/>
 
