@@ -26,6 +26,12 @@
     <option name="FILESTATUS_modifiedOutside" value="7aceee" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="616363" />
     <option name="GUTTER_BACKGROUND" value="404346" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="ff0000" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="ffff00" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="00ff00" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="00ffff" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="0000ff" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="ff00ff" />
     <option name="LINE_NUMBERS_COLOR" value="c0c0c0" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="c0c0c0" />
@@ -202,11 +208,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-      <value>
-        <option name="BACKGROUND" value="616363" />
-      </value>
-    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="7aceee" />
@@ -320,11 +322,11 @@
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
-    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="HTML_TAG">
+      <value />
+    </option>
     <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
+      <value />
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
@@ -335,7 +337,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="c0c0c0" />
+        <option name="BACKGROUND" value="616363" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
@@ -429,8 +431,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="c18f19" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffc81a" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -700,7 +702,9 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffa2a2" />
+        <option name="FOREGROUND" value="3b3c3e" />
+        <option name="BACKGROUND" value="ffa2a2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="Unresolved reference access">
