@@ -4,6 +4,8 @@ Helsing
 This is a dark color theme for JetBrains products for working under the sunlight.
 It is designed to be visible even in enormously bright environment.
 
+<img src="images/screenshot.png" width="400">
+
 Installation
 ------------
 
@@ -22,4 +24,4 @@ Tips for working on plain air
 Thanks to
 ---------
 
-[![JetBrains](svg/jetbrains.svg)](https://www.jetbrains.com/?from=helsing)
+[![JetBrains](images/jetbrains.svg)](https://www.jetbrains.com/?from=helsing)
