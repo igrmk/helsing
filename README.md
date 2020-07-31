@@ -10,3 +10,8 @@ Installation
 
 Open __Settings__ of your IDE and install the plugin from __Plugins__ dialog.
 Or install it from here https://plugins.jetbrains.com/plugin/12553-helsing.
+
+Thanks to
+---------
+
+[![JetBrains](svg/jetbrains.svg)](https://www.jetbrains.com/?from=helsing)
