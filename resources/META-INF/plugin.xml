@@ -1,10 +1,26 @@
 <idea-plugin>
     <id>com.github.igrmk</id>
     <name>Helsing</name>
-    <version>3.0</version>
+    <version>3.1</version>
     <vendor email="igrmkx@gmail.com" url="http://github.com/igrmk">igrmk</vendor>
 
-    <description>Dark color theme for working under the sunlight</description>
+    <description>
+        <![CDATA[
+            Dark color theme for working under the sunlight.
+            It is designed to be visible even in enormously bright environment.
+            Here are some tips for working on plain air.
+            <ol>
+                <li>
+                    Wear dark.
+                    Your screen will reflect your bright clothes.
+                    Even a matte display won't help if the sun will be shining on your white T-shirt.
+                </li>
+                <li>Try to find a shadow.</li>
+                <li>Set the brightness level to the maximum.</li>
+            </ol>
+        ]]>
+    </description>
+
     <change-notes>Color updates for JavaScript, C++, Razor Pages and regular expressions</change-notes>
 
     <idea-version since-build="191.0"/>

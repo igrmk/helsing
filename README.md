@@ -1,7 +1,7 @@
 Helsing
 =======
 
-This is a color theme for JetBrains products for working under the sunlight.
+This is a dark color theme for JetBrains products for working under the sunlight.
 It is designed to be visible even in enormously bright environment.
 
 Installation
