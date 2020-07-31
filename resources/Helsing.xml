@@ -25,7 +25,7 @@
     <option name="FOLDED_TEXT_BORDER_COLOR" value="616363" />
     <option name="GUTTER_BACKGROUND" value="404346" />
     <option name="LINE_NUMBERS_COLOR" value="c0c0c0" />
-    <option name="METHOD_SEPARATORS_COLOR" value="" />
+    <option name="METHOD_SEPARATORS_COLOR" value="c0c0c0" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
