@@ -19,6 +19,9 @@ Tips for working on plain air
    Your screen will reflect your bright clothes.
    Even a matte display won't help if the sun will be shining on your white T-shirt.
 2. Try to find a shadow.
+   But try to not use trees.
+   A lot of trees produce tiny drops of a resin.
+   They are hard to clean from your screen.
 3. Set the brightness level to the maximum.
 
 Thanks to
