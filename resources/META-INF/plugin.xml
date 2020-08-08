@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.igrmk</id>
     <name>Helsing</name>
-    <version>3.1</version>
+    <version>3.2</version>
     <vendor email="igrmkx@gmail.com" url="http://github.com/igrmk">igrmk</vendor>
 
     <description>
@@ -26,7 +26,7 @@
         ]]>
     </description>
 
-    <change-notes>Color updates for JavaScript, C++, Razor Pages and regular expressions</change-notes>
+    <change-notes>Color updates for JavaScript, C++, Razor Pages, regular expressions and a selection</change-notes>
 
     <idea-version since-build="191.0"/>
 

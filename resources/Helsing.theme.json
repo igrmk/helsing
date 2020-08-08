@@ -8,8 +8,8 @@
       "foreground": "#ffffff",
       "background": "#404346",
       "selectionForeground": "#ffffff",
-      "selectionBackground": "2f65ca",
-      "selectionInactiveBackground": "2f6590",
+      "selectionBackground": "#6165ad",
+      "selectionInactiveBackground": "#616363",
       "infoForeground": "#c0c0c0",
       "disabledForeground": "#c0c0c0",
       "inactiveForeground": "#c0c0c0"
