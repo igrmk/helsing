@@ -23,6 +23,7 @@ Tips for working on plain air
    A lot of trees produce tiny drops of a resin.
    They are hard to clean from your screen.
 3. Set the brightness level to the maximum.
+4. Have a cleaning cloth with you. A dust is very distracting in the sun.
 
 Thanks to
 ---------
