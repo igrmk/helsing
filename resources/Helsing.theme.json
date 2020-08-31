@@ -12,7 +12,8 @@
       "selectionInactiveBackground": "#616363",
       "infoForeground": "#c0c0c0",
       "disabledForeground": "#c0c0c0",
-      "inactiveForeground": "#c0c0c0"
+      "inactiveForeground": "#c0c0c0",
+      "matchForeground": "#ffffff"
     }
   }
 }
