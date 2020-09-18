@@ -24,6 +24,7 @@ Tips for working on plain air
    They are hard to clean from your screen.
 3. Set the brightness level to the maximum.
 4. Have a cleaning cloth with you. A dust is very distracting in the sun.
+5. Try [garlic](https://github.com/igrmk/garlic) theme for GNOME Terminal and [hull](https://github.com/igrmk/kull-vim) theme for Vim.
 
 Thanks to
 ---------
