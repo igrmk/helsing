@@ -1,6 +1,8 @@
 Helsing
 =======
 
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/12553-helsing)](https://plugins.jetbrains.com/plugin/12553-helsing)
+
 This is a dark color theme for JetBrains products for working under the sunlight.
 It is designed to be visible even in enormously bright environment.
 
