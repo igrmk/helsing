@@ -1,6 +1,6 @@
 
-<img src="resources/META-INF/pluginIcon.svg" height="23">&ensp;Helsing
-======================================================================
+<img src="images/pluginIcon_grey.svg" height="23">&ensp;Helsing
+===============================================================
 
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/12553-helsing)](https://plugins.jetbrains.com/plugin/12553-helsing)
 
