@@ -130,7 +130,6 @@
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -179,7 +178,7 @@
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -205,7 +204,6 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="b9ffb4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
@@ -615,6 +613,11 @@
     </option>
     <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
       <value />
+    </option>
+    <option name="ReSharper.CSHARP_TYPE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
       <value>

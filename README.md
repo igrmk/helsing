@@ -29,6 +29,42 @@ Tips for working on plain air
 4. Have a cleaning cloth with you. A dust is very distracting in the sun.
 5. Try [garlic](https://github.com/igrmk/garlic) theme for GNOME Terminal and [hull](https://github.com/igrmk/kull-vim) theme for Vim.
 
+Build
+-----
+
+The page at https://plugins.jetbrains.com/docs/intellij/setting-up-theme-environment.html
+describes how to set up an environment for theme development.
+Here are some additional details to address potential questions:
+
+1. When adding the JDK as described in the page above, use JetBrains Runtime 17.
+2. Since I am using JetBrains Toolbox, the correct path to the IntelliJ Platform Plugin SDK
+   in my case is `/Users/igrmk/Applications/IntelliJ IDEA Community Edition.app/Contents`.
+
+To build, select **Build | Prepare Plugin Module 'Helsing' For Deployment**.
+
+Some helpful tables
+-------------------
+
+Here are the possible values for the `FONT_TYPE` attribute:
+
+| Value | Interpretation  |
+| ----- | --------------- |
+| 0     | Normal          |
+| 1     | Bold            |
+| 2     | Italics         |
+| 3     | Bold italics    |
+
+Here are the possible values for the `EFFECT_TYPE` attribute:
+
+| Value | Interpretation   |
+| ----- | ---------------- |
+| 0     | No effects       |
+| 1     | Underscored      |
+| 2     | Underwaved       |
+| 3     | Strikeout        |
+| 4     | Bold underscored |
+| 5     | Dotted line      |
+
 Thanks to
 ---------
 
