@@ -44,7 +44,7 @@ Here are some additional details to address potential questions:
    The module SDK is set to the Project SDK by default and should remain unchanged.
 
 To build the plugin, select **Build | Prepare Plugin Module 'Helsing' For Deployment**.
-After doing so, locate the Helsing.jar file in the project directory. This is the file to publish.
+After doing so, locate the **Helsing.jar** file in the project directory. This is the file to publish.
 
 Some helpful tables
 -------------------
