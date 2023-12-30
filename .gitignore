@@ -1,8 +1,5 @@
 /output/
-.idea/encodings.xml
-.idea/workspace.xml
-.idea/contentModel.xml
-.idea/vcs.xml
-.idea/codeStyles/codeStyleConfig.xml
-.idea/dictionaries/
+.idea/
+!.idea/misc.xml
+!.idea/modules.xml
 *.jar
