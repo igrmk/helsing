@@ -53,17 +53,17 @@ Some helpful tables
 
 Here are the possible values for the `FONT_TYPE` attribute:
 
-| Value | Interpretation  |
-| ----- | --------------- |
-| 0     | Normal          |
-| 1     | Bold            |
-| 2     | Italics         |
-| 3     | Bold italics    |
+| Value | Interpretation |
+|-------|----------------|
+| 0     | Normal         |
+| 1     | Bold           |
+| 2     | Italics        |
+| 3     | Bold italics   |
 
 Here are the possible values for the `EFFECT_TYPE` attribute:
 
 | Value | Interpretation   |
-| ----- | ---------------- |
+|-------|------------------|
 | 0     | No effects       |
 | 1     | Underscored      |
 | 2     | Underwaved       |
