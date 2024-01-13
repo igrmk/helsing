@@ -299,6 +299,10 @@
       </value>
     </option>
     <option name="GO_PACKAGE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="GO_SHADOWING_VARIABLE">
+      <value>
+      </value>
+    </option>
     <option name="GO_STRUCT_EXPORTED_MEMBER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
