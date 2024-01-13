@@ -300,8 +300,7 @@
     </option>
     <option name="GO_PACKAGE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="GO_SHADOWING_VARIABLE">
-      <value>
-      </value>
+      <value />
     </option>
     <option name="GO_STRUCT_EXPORTED_MEMBER">
       <value>
@@ -321,6 +320,9 @@
     <option name="HAML_TAG" baseAttributes="TEXT" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG">
       <value />
@@ -349,6 +351,11 @@
         <option name="EFFECT_COLOR" value="ffc81a" />
         <option name="ERROR_STRIPE_COLOR" value="ffc81a" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="BACKGROUND" value="5b6a5b" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -380,6 +387,9 @@
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value />
+    </option>
+    <option name="JS.JSX_CLIENT_COMPONENT">
       <value />
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -420,6 +430,9 @@
       </value>
     </option>
     <option name="MAKO.SUBSTITUTION" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="MARKDOWN_IMAGE">
+      <value />
+    </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ffa2a2" />
@@ -431,6 +444,9 @@
         <option name="BACKGROUND" value="c18f19" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="NG.SIGNAL">
+      <value />
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
@@ -709,6 +725,9 @@
         <option name="ERROR_STRIPE_COLOR" value="ffc81a" />
       </value>
     </option>
+    <option name="TS.TYPE_GUARD">
+      <value />
+    </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
@@ -729,6 +748,22 @@
         <option name="EFFECT_COLOR" value="ffa2a2" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
+    </option>
+    <option name="VELOCITY_DIRECTIVE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="VELOCITY_KEYWORD">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="VELOCITY_REFERENCE">
+      <value />
+    </option>
+    <option name="VELOCITY_SCRIPTING_BACKGROUND">
+      <value />
     </option>
     <option name="Valid string escape">
       <value>
@@ -761,6 +796,9 @@
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_CUSTOM_TAG_NAME">
+      <value />
+    </option>
     <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_DATA">
@@ -774,6 +812,9 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
       </value>
+    </option>
+    <option name="XPATH.FUNCTION">
+      <value />
     </option>
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
