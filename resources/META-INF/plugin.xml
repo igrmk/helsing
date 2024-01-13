@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.igrmk</id>
     <name>Helsing</name>
-    <version>3.4</version>
+    <version>3.5</version>
     <vendor email="igrmkx@gmail.com" url="http://github.com/igrmk">igrmk</vendor>
 
     <description>
@@ -30,7 +30,7 @@
         ]]>
     </description>
 
-    <change-notes>Plugin icon has been updated to a revolver cylinder.</change-notes>
+    <change-notes>Colors fixed for C#, Go, XPath, XML, Velocity, TypeScript, Markdown, JavaScript, HTML</change-notes>
 
     <idea-version since-build="191.0"/>
 
