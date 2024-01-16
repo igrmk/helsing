@@ -683,6 +683,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
     <option name="SQL_PROCEDURE">
       <value>
         <option name="FOREGROUND" value="b9ffb4" />
