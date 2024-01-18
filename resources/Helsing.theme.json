@@ -13,7 +13,17 @@
       "infoForeground": "#c0c0c0",
       "disabledForeground": "#c0c0c0",
       "inactiveForeground": "#c0c0c0",
+      "inactiveBackground": "#404346",
       "matchForeground": "#ffffff"
+    },
+    "MainWindow": {
+      "Tab": {
+        "foreground": "#ffffff",
+        "background": "#404346",
+        "selectedForeground": "#ffffff",
+        "selectedBackground": "#616363",
+        "selectedInactiveBackground": "#616363"
+      }
     }
   }
 }
