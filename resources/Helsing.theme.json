@@ -22,7 +22,8 @@
         "background": "#404346",
         "selectedForeground": "#ffffff",
         "selectedBackground": "#616363",
-        "selectedInactiveBackground": "#616363"
+        "selectedInactiveBackground": "#616363",
+        "borderColor": "#616363"
       }
     }
   }
