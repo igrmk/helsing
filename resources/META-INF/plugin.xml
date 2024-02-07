@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.igrmk</id>
     <name>Helsing</name>
-    <version>3.7</version>
+    <version>3.8</version>
     <vendor email="igrmkx@gmail.com" url="http://github.com/igrmk">igrmk</vendor>
 
     <description>
@@ -30,7 +30,7 @@
         ]]>
     </description>
 
-    <change-notes>Border colors fixed for projects/solutions tabs</change-notes>
+    <change-notes>SQL colors updated</change-notes>
 
     <idea-version since-build="191.0"/>
 

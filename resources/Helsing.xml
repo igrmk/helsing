@@ -679,8 +679,7 @@
     </option>
     <option name="SQL_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="b9ffb4" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
