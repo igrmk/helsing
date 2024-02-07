@@ -30,7 +30,7 @@
         ]]>
     </description>
 
-    <change-notes>SQL colors updated</change-notes>
+    <change-notes>SQL colors updated, injected language fragment color updated</change-notes>
 
     <idea-version since-build="191.0"/>
 
