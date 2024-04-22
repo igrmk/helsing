@@ -14,7 +14,8 @@
       "disabledForeground": "#c0c0c0",
       "inactiveForeground": "#c0c0c0",
       "inactiveBackground": "#404346",
-      "matchForeground": "#ffffff"
+      "matchForeground": "#ffffff",
+      "hoverBackground": "#4a4d51"
     },
     "MainWindow": {
       "Tab": {
