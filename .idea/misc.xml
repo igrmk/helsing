@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="IntelliJ IDEA IU-233.13135.103" project-jdk-type="IDEA JDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="IntelliJ IDEA IU-251.25410.129" project-jdk-type="IDEA JDK">
     <output url="file://$PROJECT_DIR$/output" />
   </component>
 </project>
