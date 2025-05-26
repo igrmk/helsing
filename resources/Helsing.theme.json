@@ -17,6 +17,7 @@
       "matchForeground": "#ffffff",
       "hoverBackground": "#4a4d51"
     },
+    "window": "#404346",
     "MainWindow": {
       "Tab": {
         "foreground": "#ffffff",
@@ -26,6 +27,15 @@
         "selectedInactiveBackground": "#616363",
         "borderColor": "#616363"
       }
-    }
+    },
+    "Panel.background": {
+      "os.default": "#404346",
+      "os.linux": "#45484b"
+    },
+    "Button.background": "transparent",
+    "TabbedPane.background": "transparent",
+    "SidePanel.background": "transparent",
+    "Plugins.lightSelectionBackground": "#616363",
+    "Plugins.background": "transparent"
   }
 }
