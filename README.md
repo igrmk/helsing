@@ -9,13 +9,15 @@ It is designed to be visible even in enormously bright environment.
 
 <img src="images/screenshot.png" width="400">
 
+
 Installation
 ------------
 
 Open __Settings__ of your IDE and install the plugin from __Plugins__ dialog.
 Or install it from here https://plugins.jetbrains.com/plugin/12553-helsing.
 
-Tips for working on plain air
+
+Tips for Working on Plain Air
 -----------------------------
 
 1. Wear dark.
@@ -30,6 +32,7 @@ Tips for working on plain air
 5. Try [garlic](https://github.com/igrmk/garlic) theme
    for GNOME Terminal and [kitty](https://sw.kovidgoyal.net/kitty/).
    Also try [hull](https://github.com/igrmk/kull-vim) theme for Vim.
+
 
 Build
 -----
@@ -48,8 +51,22 @@ Here are some additional details to address potential questions:
 To build the plugin, select **Build > Prepare Plugin Module 'Helsing' For Deployment**.
 After doing so, locate the **Helsing.jar** file in the project directory. This is the file to publish.
 
-Some helpful tables
--------------------
+
+Some Helpful Development Tips
+-----------------------------
+
+
+### Use UI Inspector
+
+The UI Inspector displays extensive information for UI elements, similar to the Elements panel in Google Chrome Developer Tools.
+To enable it, follow these steps:
+
+1. Enable internal mode: https://plugins.jetbrains.com/docs/intellij/enabling-internal.html
+
+2. Use the shortcut from here: https://plugins.jetbrains.com/docs/intellij/internal-ui-inspector.html
+
+
+### Useful Tables
 
 Here are the possible values for the `FONT_TYPE` attribute:
 
@@ -71,13 +88,16 @@ Here are the possible values for the `EFFECT_TYPE` attribute:
 | 4     | Bold underscored |
 | 5     | Dotted line      |
 
+
+### JSON Schema for Themes
+
 You can likely find an up-to-date description of theme attributes at this link:
 [metadata](https://github.com/JetBrains/intellij-community/blob/master/platform/platform-resources/src/themes/metadata).
 The available keys are likely merged from all files in this directory.
 Actually, the parent directory has many helpful examples as well.
 Clone the repository and use those files as practical guidance.
 
-Thanks to
+Thanks To
 ---------
 
 [![JetBrains](images/jetbrains.svg)](https://www.jetbrains.com/?from=helsing)
