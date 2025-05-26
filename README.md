@@ -91,7 +91,7 @@ Here are the possible values for the `EFFECT_TYPE` attribute:
 
 ### JSON Schema for Themes
 
-You can likely find an up-to-date description of theme attributes at this link:
+You can find an up-to-date description of theme attributes at this link:
 [metadata](https://github.com/JetBrains/intellij-community/blob/master/platform/platform-resources/src/themes/metadata).
 The available keys are likely merged from all files in this directory.
 Actually, the parent directory has many helpful examples as well.
