@@ -72,7 +72,10 @@ Here are the possible values for the `EFFECT_TYPE` attribute:
 | 5     | Dotted line      |
 
 You can likely find an up-to-date description of theme attributes at this link:
-[IntelliJPlatform.themeMetadata.json](https://github.com/JetBrains/intellij-community/blob/master/platform/platform-resources/src/themes/metadata/IntelliJPlatform.themeMetadata.json).
+[metadata](https://github.com/JetBrains/intellij-community/blob/master/platform/platform-resources/src/themes/metadata).
+The available keys are likely merged from all files in this directory.
+Actually, the parent directory has many helpful examples as well.
+Clone the repository and use those files as practical guidance.
 
 Thanks to
 ---------
