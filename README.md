@@ -42,10 +42,10 @@ Here are some additional details to address potential questions:
 2. As a JetBrains Toolbox user on macOS, my correct path to the IntelliJ Platform Plugin SDK
    is `/Users/igrmk/Applications/IntelliJ IDEA Community Edition.app/Contents`.
    The SDK should be added to the project, not the module.
-   You can do this via **File | Project Structure | Project Settings | Project | SDK**.
+   You can do this via **File > Project Structure > Project Settings > Project > SDK**.
    The module SDK is set to the Project SDK by default and should remain unchanged.
 
-To build the plugin, select **Build | Prepare Plugin Module 'Helsing' For Deployment**.
+To build the plugin, select **Build > Prepare Plugin Module 'Helsing' For Deployment**.
 After doing so, locate the **Helsing.jar** file in the project directory. This is the file to publish.
 
 Some helpful tables
