@@ -35,7 +35,6 @@
     <idea-version since-build="191.0"/>
 
     <depends>com.intellij.modules.platform</depends>
-    <depends>com.intellij.modules.lang</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="723d5afc-7378-4a6b-adc4-687dc34bc43b" path="/Helsing.theme.json"/>
