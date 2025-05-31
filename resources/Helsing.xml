@@ -1,10 +1,12 @@
 <scheme name="Helsing" version="142" parent_scheme="Darcula">
   <colors>
+    <option name="ADDED_LINES_COLOR" value="6a8c62" />
     <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="3b3c3e" />
     <option name="BLOCK_TERMINAL_DEFAULT_FOREGROUND" value="ffffff" />
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="404346" />
     <option name="CONSOLE_BACKGROUND_KEY" value="3b3c3e" />
+    <option name="DELETED_LINES_COLOR" value="8b8c8c" />
     <option name="FILESTATUS_ADDED" value="98e58c" />
     <option name="FILESTATUS_COPIED" value="98e58c" />
     <option name="FILESTATUS_DELETED" value="c0c0c0" />
@@ -35,12 +37,17 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="00ffff" />
     <option name="HTML_TAG_TREE_LEVEL4" value="0000ff" />
     <option name="HTML_TAG_TREE_LEVEL5" value="ff00ff" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="6a8c62" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="8b8c8c" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="6b6b99" />
     <option name="INDENT_GUIDE" value="616163" />
     <option name="LINE_NUMBERS_COLOR" value="c0c0c0" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="c0c0c0" />
+    <option name="MODIFIED_LINES_COLOR" value="6b6b99" />
     <option name="SELECTED_INDENT_GUIDE" value="7aceee" />
     <option name="SELECTION_BACKGROUND" value="6165ad" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="8c8c40" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -442,6 +449,30 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="695e5c" />
+        <option name="ERROR_STRIPE_COLOR" value="8c6862" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="616363" />
+        <option name="ERROR_STRIPE_COLOR" value="8b8c8c" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="526151" />
+        <option name="ERROR_STRIPE_COLOR" value="6a8c62" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="6b6b78" />
+        <option name="ERROR_STRIPE_COLOR" value="6b6b99" />
+      </value>
+    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="BACKGROUND" value="616363" />
@@ -571,7 +602,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="516151" />
+        <option name="BACKGROUND" value="526151" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
