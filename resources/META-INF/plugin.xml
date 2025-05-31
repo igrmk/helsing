@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.igrmk</id>
     <name>Helsing</name>
-    <version>3.11</version>
+    <version>3.12</version>
     <vendor email="igrmkx@gmail.com" url="http://github.com/igrmk">igrmk</vendor>
 
     <description>
@@ -13,7 +13,7 @@
                 <li>
                     Wear dark.
                     Your screen will reflect your bright clothes.
-                    Even a matte display won't help if the sun will be shining on your white T-shirt.
+                    Even a matte display won't help if the sun shines on your white T-shirt.
                 </li>
                 <li>
                     Try to find a shadow.
@@ -24,13 +24,13 @@
                 <li>Set the brightness level to the maximum.</li>
                 <li>
                     Have a cleaning cloth with you.
-                    A dust is very distracting in the sun.
+                    A dust is very distracting in the sunlight.
                 </li>
             </ol>
         ]]>
     </description>
 
-    <change-notes>Terminal now uses the Garlic terminal theme</change-notes>
+    <change-notes>Theme VCS highlighting</change-notes>
 
     <idea-version since-build="191.0"/>
 
