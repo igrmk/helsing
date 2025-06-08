@@ -1,12 +1,14 @@
 <scheme name="Helsing" version="142" parent_scheme="Darcula">
   <colors>
     <option name="ADDED_LINES_COLOR" value="6a8c62" />
+    <option name="ANNOTATIONS_COLOR" value="7aceee" />
     <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="3b3c3e" />
     <option name="BLOCK_TERMINAL_DEFAULT_FOREGROUND" value="ffffff" />
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="404346" />
     <option name="CONSOLE_BACKGROUND_KEY" value="3b3c3e" />
     <option name="DELETED_LINES_COLOR" value="8b8c8c" />
+    <option name="DOC_COMMENT_LINK" value="7aceee" />
     <option name="FILESTATUS_ADDED" value="98e58c" />
     <option name="FILESTATUS_COPIED" value="98e58c" />
     <option name="FILESTATUS_DELETED" value="c0c0c0" />
@@ -220,7 +222,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffd9d9" />
+        <option name="FOREGROUND" value="ffa2a2" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -270,6 +272,18 @@
         <option name="BACKGROUND" value="efb5b5" />
       </value>
     </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="b9ffb4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="fff09f" />
@@ -303,6 +317,72 @@
     </option>
     <option name="CfmlNumber sign">
       <value />
+    </option>
+    <option name="CodeWithMe.USER_1_MARKER">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="b9ffb4" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_1_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="5c7f5a" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_2_MARKER">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="ffd9d9" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_2_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="7f6c6c" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_3_MARKER">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="f5c0ff" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_3_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="7a607f" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_4_MARKER">
+      <value>
+        <option name="FOREGROUND" value="1e1f22" />
+        <option name="BACKGROUND" value="a5c5ff" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_4_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="52627f" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_5_MARKER">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="95f7ff" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_5_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="4a7b7f" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_6_MARKER">
+      <value>
+        <option name="FOREGROUND" value="1e1f22" />
+        <option name="BACKGROUND" value="fff09f" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_6_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="7f784f" />
+      </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
@@ -560,6 +640,12 @@
       </value>
     </option>
     <option name="GO_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE" />
+    <option name="GRAMMAR_ERROR">
+      <value>
+        <option name="EFFECT_COLOR" value="ffa2a2" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="HAML_CLASS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
@@ -670,6 +756,34 @@
     </option>
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b9ffb4" />
+      </value>
+    </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffa2a2" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value />
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7aceee" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffc81a" />
+      </value>
+    </option>
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -957,6 +1071,11 @@
         <option name="FOREGROUND" value="c0c0c0" />
       </value>
     </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="BACKGROUND" value="526151" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -968,6 +1087,18 @@
         <option name="FOREGROUND" value="3b3c3e" />
         <option name="BACKGROUND" value="b9ffb4" />
         <option name="ERROR_STRIPE_COLOR" value="b9ffb4" />
+      </value>
+    </option>
+    <option name="TEXT_STYLE_ERROR">
+      <value>
+        <option name="EFFECT_COLOR" value="ffa2a2" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TEXT_STYLE_SUGGESTION">
+      <value>
+        <option name="EFFECT_COLOR" value="7aceee" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
