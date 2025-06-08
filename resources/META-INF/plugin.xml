@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.igrmk</id>
     <name>Helsing</name>
-    <version>3.12</version>
+    <version>4.0</version>
     <vendor email="igrmkx@gmail.com" url="http://github.com/igrmk">igrmk</vendor>
 
     <description>
@@ -30,7 +30,7 @@
         ]]>
     </description>
 
-    <change-notes>Theme VCS highlighting</change-notes>
+    <change-notes>Themed Code With Me, log levels, and feedback text</change-notes>
 
     <idea-version since-build="191.0"/>
 
