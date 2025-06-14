@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.igrmk</id>
     <name>Helsing</name>
-    <version>4.0</version>
+    <version>4.1</version>
     <vendor email="igrmkx@gmail.com" url="http://github.com/igrmk">igrmk</vendor>
 
     <description>
@@ -30,7 +30,7 @@
         ]]>
     </description>
 
-    <change-notes>Themed Code With Me, log levels, and feedback text</change-notes>
+    <change-notes>Improved diff colors and added partial debugger theming</change-notes>
 
     <idea-version since-build="191.0"/>
 
